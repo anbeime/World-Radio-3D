@@ -1,0 +1,5 @@
+{
+  "name": "World Radio 3D",
+  "description": "An interactive 3D globe allowing users to explore and listen to live radio stations from around the world, enriched with AI-generated cultural insights.",
+  "requestFramePermissions": []
+}
